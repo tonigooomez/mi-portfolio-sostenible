@@ -26,3 +26,5 @@ git push origin main
 
 ## Licencia
 Este proyecto se publica bajo licencia MIT.
+
+Esta es una nota de prueba para el PR
