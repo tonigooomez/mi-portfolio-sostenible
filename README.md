@@ -10,4 +10,19 @@ Aprender un poco mas sobre tecnologia en general y mejorar tecnicas de informati
 
 Un programador puede contribuir a un mundo más sostenible de numerosas maneras, aprovechando la eficiencia inherente del software para optimizar procesos en el mundo real. Aquí hay varias áreas clave donde su trabajo puede tener un impacto significativo
 
+## Tecnologías que me interesan
+- HTML
+- Python
+- Git y GitHub
+-Js
+-Css
+(modifica según tu interés)
+## Primeros comandos aprendidos
 
+git init
+git add .
+git commit -m "Primer commit"
+git push origin main
+
+## Licencia
+Este proyecto se publica bajo licencia MIT.
